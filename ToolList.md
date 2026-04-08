@@ -144,7 +144,9 @@
 - PGP Tool  
 
 ---
-
+### Company lookup
+- tracxn
+  
 ## Notes
 - Many of these tools are **commercial or restricted-access**
 - Some require **law enforcement, enterprise, or professional licenses**
